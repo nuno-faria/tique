@@ -1,0 +1,4 @@
+*.pyc
+.#kate-*
+*.config
+tpcc_data_*

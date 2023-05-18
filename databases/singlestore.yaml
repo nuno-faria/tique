@@ -1,0 +1,16 @@
+license: LICENSE
+high_availability: false
+memsql_server_version: 8.0.4
+root_password: root
+hosts:
+- hostname: localhost
+  localhost: true
+  nodes:
+  - register: false
+    role: Master
+    config:
+      port: 3306
+  - register: false
+    role: Leaf
+    config:
+      port: 3307
