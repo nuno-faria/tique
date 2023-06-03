@@ -1,6 +1,6 @@
 # TiQuE - Transactions in the Query Engine
 
-This repo provides benchmarks and implementations of **T**ransactions **i**n the **Qu**ery **E**ngine, or TiQuE for short. The complete design can be found in the corresponding paper, *TiQuE: Improving the Transactional Performance of Analytical Systems for True Hybrid Workloads*, accepted for VLDB 2023. 
+This repo provides benchmarks and implementations of **T**ransactions **i**n the **Qu**ery **E**ngine, or TiQuE for short. The complete design can be found in the corresponding paper, *TiQuE: Improving the Transactional Performance of Analytical Systems for True Hybrid Workloads*, accepted for VLDB 2023. You can check out the paper [here](https://nuno-faria.github.io/publications/tique).
 
 - [TiQuE - Transactions in the Query Engine](#tique---transactions-in-the-query-engine)
     - [Introduction](#introduction)
