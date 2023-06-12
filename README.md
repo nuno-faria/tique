@@ -17,6 +17,7 @@ This repo provides benchmarks and implementations of **T**ransactions **i**n the
       - [SingleStore](#singlestore)
       - [TiDB](#tidb)
     - [Results](#results)
+    - [Cite](#cite)
 
 
 ### Introduction
@@ -249,3 +250,24 @@ We also provide a consistency checker of TiQuE using [Elle](https://github.com/j
 
 ### Results
 [Check the `results` folder.](/results)
+
+
+### Cite
+
+- Text
+> `Nuno Faria, José Pereira, Ana Nunes Alonso, Ricardo Vilaça, Yunus Koning, and Niels Nes. TiQuE: Improving the Transactional Performance of Analytical Systems for True Hybrid Workloads. PVLDB, 16(9): 2274 - 2288, 2023. https://doi.org/10.14778/3598581.3598598`
+
+- BibTeX
+```bib
+@article{tique,
+    title     = {TiQuE: Improving the Transactional Performance of Analytical Systems for True Hybrid Workloads},
+    author    = {Faria, Nuno and Pereira, José and Nunes Alonso, Ana and Vilaça, Ricardo and Koning, Yunus and Nes, Niels},
+    journal   = {Proceedings of the VLDB Endowment},
+    volume    = {16},
+    number    = {9},
+    pages     = {2274--2288},
+    year      = {2023},
+    publisher = {VLDB Endowment},
+    doi       = {10.14778/3598581.3598598}
+}
+```
